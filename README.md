@@ -1,7 +1,7 @@
 # NexterProject
 
 The project about:
-**
+
 
 * How to build a complex and modern layout using advenced CSS Grid techniques
 * How to choose different row and column track sizes for different types of content
