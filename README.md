@@ -2,6 +2,7 @@
 
 The project about:
 
+If you vant to see the project just cklick to the link: https://jarabik8810.github.io/NexterProject/
 
 * How to build a complex and modern layout using advenced CSS Grid techniques
 * How to choose different row and column track sizes for different types of content
